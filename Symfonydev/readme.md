@@ -29,5 +29,5 @@ $ php bin/console server:run 0.0.0.0:8000
 ## Contributions
 
 I would appreciate contributions for this features :
-⋅⋅⋅mysql service start debugging - actualy not working with dockerfile
-⋅⋅⋅yours
++mysql service start debugging - actualy not working with dockerfile
++yours
