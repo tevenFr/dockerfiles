@@ -1,7 +1,7 @@
 # Symfony dev dockerfile
 A dockerfile with ubuntu:xenial + php 7.1 + mariadb + composer + symfony installer 
 
-Caution : this container is unsafe, was made for rapidly pop a symfony dev env at screen from existing files. Instruction how to use here
+Caution : this container is unsafe, was made for rapidly pop a symfony dev env at screen from existing files.
 
 ## instructions
   Caution: use this container for demo purpose only.
@@ -25,3 +25,9 @@ $ composer update
 $ php bin/console doctrine:schema:create
 $ php bin/console server:run 0.0.0.0:8000
 ```
+
+## Contributions
+
+I would appreciate contributions for this features :
+⋅⋅⋅mysql service start debugging - actualy not working with dockerfile
+⋅⋅⋅yours
