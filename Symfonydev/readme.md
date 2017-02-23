@@ -3,7 +3,7 @@ A dockerfile with ubuntu:xenial + php 7.1 + mariadb + composer + symfony install
 
 **Caution** : this container is unsafe, was made for rapidly pop a symfony dev env at screen from existing files.
 
-## instructions
+## How tu use
   Caution: use this container for demo purpose only.
   Run the container, mount the volume and put your symfony files into it
   
