@@ -1,4 +1,4 @@
-# dockerfiles
+# Dockerfiles
 My stock of dockerfiles, feel free to contribute
 
 ## Symfony
