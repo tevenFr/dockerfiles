@@ -6,7 +6,7 @@
   
   This is the defaults database parameters you need in your parameters.yml
   ```yml
-     database_host: localhost
+    database_host: localhost
     database_port: ~
     database_name: symfony
     database_user: root
